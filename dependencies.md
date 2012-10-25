@@ -3,7 +3,7 @@ layout: default
 title: FlyEM Software Dependencies
 ---
 
-There are a number of applications used within Janelia Farm's FlyEM project.  Below is a table showing possible software dependencies and the open source license they use.  When a license has different wording than one of the popular licenses, we note similar licenses in the Notes area and usually provide a link to a web page that describes the license in more detail.
+There are a number of applications used within Janelia Farm's FlyEM project.  Below is a table showing possible software dependencies and the open source license they use.  When a license has different wording than one of the popular licenses, we note similar licenses in the Notes area and usually provide a link to a web page that describes the license in more detail.  A simple explanation of the compatibility of open source licenses [can be found here](licenses.html).
 
 |Software           | License                       |  Notes                |
 |:------------------|:------------------------------|-----------------------|

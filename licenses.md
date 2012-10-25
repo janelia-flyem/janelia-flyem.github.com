@@ -19,10 +19,8 @@ In the middle are the “weakly protective” (“weak copyleft”) licenses, a 
 
 Note that this page provides a simple way of looking at licensing issues but should not be considered legal advice.  Individual licenses should be read and proper legal counsel should be consulted as needed.
 
-This page was derived from the [excellent work of David Wheeler](http://www.dwheeler.com/essays/floss-license-slide.html) and can be modified according to the following license:
+This page was derived from the [excellent work of David Wheeler](http://www.dwheeler.com/essays/floss-license-slide.html) and can be modified under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution-ShareAlike 3.0 Unported License</a>.
 
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/">
     <img alt="Creative Commons License" style="border-width:0" width="88" height="31" src="http://i.creativecommons.org/l/by-sa/3.0/88x31.png" />
 </a>
-<br />
-This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution-ShareAlike 3.0 Unported License</a>.
