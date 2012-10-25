@@ -1,3 +1,8 @@
+---
+layout: default
+title: Janelia Farm License
+---
+
 Copyright 2012 HHMI.  All rights reserved.
 
 Redistribution and use in source and binary forms, with or without
