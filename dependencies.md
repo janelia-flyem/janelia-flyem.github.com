@@ -8,9 +8,11 @@ There are a number of applications used within Janelia Farm's FlyEM project.  Be
 |Software           | License                       |  Notes                |
 |:------------------|:------------------------------|-----------------------|
 |atlas 3.10.0       |BSD    | |
+|blist 1.3.4        |BSD    | [Link](https://github.com/DanielStutzbach/blist/blob/master/LICENSE) |
 |boost 1.51.0       |Boost Software License | [Very similar to BSD and MIT](http://www.boost.org/users/license.html)|
 |fftw 3.3.2         |GPLv2+ | Option to purchase non-free version from MIT|
 |freetype 2.4.10    |FreeType License or GPLv2  | Similar to BSD |
+|greenlet 0.4.0     |MIT    | [Link](https://github.com/python-greenlet/greenlet/blob/master/LICENSE)|
 |gtest 1.6.0        |BSD    | [Link](http://code.google.com/p/googletest/source/browse/trunk/LICENSE)|
 |h5py 2.1.0         |BSD    | |
 |hdf5 1.8.9         |HDF License    | [Almost identical to BSD](http://www.hdfgroup.org/HDF5/doc/Copyright.html)|
@@ -26,13 +28,14 @@ There are a number of applications used within Janelia Farm's FlyEM project.  Be
 |nose 1.2.1         |LGPLv2.1           |   |
 |numpy 1.6.2        |BSD               | [Link](http://www.scipy.org/License_Compatibility)  |
 |openexr 1.6.1      |BSD            | [Link](http://www.openexr.com/license.html)|
-|progressbar 2.3    |BSD or LGPL               | [Link](http://code.google.com/p/python-progressbar/source/browse/LICENSE.txt)  |
+|progressbar 2.3    |BSD or LGPL    | [Link](http://code.google.com/p/python-progressbar/source/browse/LICENSE.txt)  |
 |python 2.7.3       | Python Software Foundation (PSF) License  | [Link](http://docs.python.org/license.html)|
 |scikit-image 0.7.2  |BSD   | [Link](http://scikit-image.org/docs/dev/license.html)  |
 |scikit-learn 0.12.1|BSD   |   |
 |scipy 0.11.0       |BSD   | [Link](http://www.scipy.org/License_Compatibility)  |
 |scons 1.2.0        |MIT   | [Link](http://www.scons.org/wiki/FrequentlyAskedQuestions#Is_SCons_released_under_an_Open_Source_license.3F)  |
 |setuptools 0.6c11  |PSF or ZPL   |   |
+|tbb 4.1            |GPLv2 with runtime exception | [See license on right](http://threadingbuildingblocks.org/ver.php?fid=189)|
 |thrift 0.8.0       |Apache 2.0   |   |
 |libtiff 4.0.3      |Libtiff License   | Similar to BSD  |
 |vigra 1.8.0        |MIT   | [Link](http://hci.iwr.uni-heidelberg.de/vigra/LICENSE.txt)  |
