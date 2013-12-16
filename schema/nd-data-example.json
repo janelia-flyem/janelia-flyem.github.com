@@ -1,0 +1,28 @@
+{
+    "Axes": [
+        {
+            "Label": "X",
+            "Resolution": 3.1,
+            "Units": "nanometers",
+            "Size": 100
+        },
+        {
+            "Label": "Y",
+            "Resolution": 3.1,
+            "Units": "nanometers",
+            "Size": 200
+        },
+        {
+            "Label": "Z",
+            "Resolution": 40,
+            "Units": "nanometers",
+            "Size": 400
+        }
+    ],
+    "Values": [
+        {
+            "DataType": "uint8",
+            "Label": "intensity"
+        }
+    ]
+}
